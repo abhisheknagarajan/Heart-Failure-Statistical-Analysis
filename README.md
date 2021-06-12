@@ -115,7 +115,9 @@ Death Event - If the patient died during the follow-up period
 6) Additional information about the physical features of the patients (height, weight, body mass index, etc.) ,Geographical Region had been available and their family history of Heart Disease would have been useful to predict more accurate additional risk factors for cardiovascular health diseases.
 
 
-<h4>Notebook Link : <a href='https://github.com/abhisheknagarajan/Machine-Learning-Classification-Problem-on-Loan-Prediction/blob/main/Machine%20Learning%20Classification%20Problem%20on%20Loan%20Prediction.ipynb'>Machine_Learning_Classification_Problem_on_Loan_Prediction.ipynb</a></h4>
+<h4>Notebook Link : <a href='https://github.com/abhisheknagarajan/Heart-Failure-Statistical-Analysis/blob/main/Statistics%20Presentation%20(Descriptive%2C%20Inferential%2C%20Simulation).ipynb'>Heart_Failure_Statistical_Analysis.ipynb</a></h4>
 
-<h4>Dataset Link : <a href='https://www.kaggle.com/altruistdelhite04/loan-prediction-problem-dataset'>Loan _Prediction.csv</a></h4>
+<h4>Kaggle Link : <a href='https://www.kaggle.com/andrewmvd/heart-failure-clinical-data'>Heart_failure_clinical_records_dataset.csv</a></h4>
+
+<h4>Dataset Link : <a href='https://github.com/abhisheknagarajan/Heart-Failure-Statistical-Analysis/blob/main/heart_failure_clinical_records_dataset.csv'>Heart_failure_clinical_records_dataset.csv</a></h4>
 
